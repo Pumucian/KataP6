@@ -1,6 +1,5 @@
 package kata6.model;
 
-import java.util.logging.Logger;
 
 public class Mail {
     private final int Id;
